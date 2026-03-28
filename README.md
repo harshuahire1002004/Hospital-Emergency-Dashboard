@@ -58,7 +58,7 @@ The main objective of this project is to create an interactive dashboard that he
 * Patient Race Distribution
 * Department Referral Analysis
 * Wait Time Status
-![img1](https://github.com/user-attachments/assets/ab42ee2a-4155-4843-a1e3-17e3f5913f7c)
+<img width="1096" height="665" alt="image" src="https://github.com/user-attachments/assets/cff771ad-c27d-48b1-9018-31aa78c0dda4" />
 
 ### 🔹 Patient Details Dashboard
 
@@ -70,7 +70,8 @@ The main objective of this project is to create an interactive dashboard that he
 * Department Referral
 * Admission Status
 * Patient Race
-![img3](https://github.com/user-attachments/assets/a88acc73-0ffd-43a8-a4dc-c4d5a5ad5388)
+<img width="1080" height="653" alt="image" src="https://github.com/user-attachments/assets/22ddd17c-63f8-45b0-b717-d81b561d99a7" />
+
 
 ---
 
